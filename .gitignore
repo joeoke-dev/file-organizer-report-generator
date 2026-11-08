@@ -1,0 +1,15 @@
+# Working folders and generated output
+inbox/
+sorted/
+demo_sorted/
+output/
+moves_log.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Environment
+.env
