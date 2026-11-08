@@ -1,0 +1,125 @@
+ Order ID,Date ,Customer,REGION,Product Category,Quantity,Unit Price
+ORD-1042,2024-05-02,  Musa Danjuma,kano  ,Clothing,3,116.47
+ORD-1076,"April 25, 2024",SEUN ADEYEMI  ,LAGOS,clothing,8,56.86
+ORD-1001,"January 13, 2024",  Chioma Eze,Abuja,ELECTRONICS,1,220.27
+ORD-1078,28/11/2024,Ada Obi,lagos,,4,53.80
+ORD-1022,08/07/2024,TUNDE BELLO  ,Port Harcourt  ,  Clothing,5,31.54
+ORD-1025,2024-08-08,ada obi  ,  lagos,Clothing,6,$98.01
+ORD-1019,"September 14, 2024",Tunde Bello,Abuja,Home,2,284.23
+ORD-1002,2024-10-14,  SEUN ADEYEMI,kano,Electronics,6,358.40
+ORD-1014,08/12/2024,Tunde Bello,ABUJA,Groceries,2,$41.24
+ORD-1013,"October 28, 2024",Tunde Bello,  Lagos,Electronics,6,203.14
+ORD-1108,"July 07, 2024",NGOZI OKAFOR,IBADAN,  Clothing,3,107.30
+ORD-1115,"May 03, 2024",Seun Adeyemi  ,Abuja  ,  groceries,8,$58.95
+ORD-1033,2024-03-16,Ada Obi,Port Harcourt,  CLOTHING,7,69.44
+ORD-1053,2024-03-18,ngozi okafor,Abuja,Electronics,8,$831.38
+ORD-1061,2024-07-30,tunde bello,  Kano,  home,5,148.29
+ORD-1007,25/11/2024,  tunde bello,abuja,HOME  ,4,299.28
+ORD-1077,26/10/2024,seun adeyemi,ABUJA,  groceries,2,$39.95
+ORD-1003,2024-02-22,Musa Danjuma  ,ibadan,GROCERIES,7,$9.33
+ORD-1049,"October 10, 2024",CHIOMA EZE  ,IBADAN  ,home  ,4,62.58
+ORD-1056,2024-08-05,  Ngozi Okafor,Ibadan,  Clothing,5,79.50
+ORD-1035,"August 14, 2024",SEUN ADEYEMI,ABUJA,  groceries,5,47.12
+ORD-1008,2024-02-16,  Ada Obi,Kano,HOME,5,292.19
+ORD-1081,2024-12-05,Seun Adeyemi,  Ibadan,Electronics,4,589.79
+ORD-1011,2024-05-02,Tunde Bello,  Kano,Groceries,,19.58
+ORD-1059,21/11/2024,ADA OBI  ,kano  ,  Home,6,$141.14
+ORD-1055,02/01/2024,MUSA DANJUMA  ,Lagos  ,clothing,2,$88.74
+ORD-1087,06/08/2024,seun adeyemi  ,ABUJA,,2,28.75
+ORD-1082,"March 16, 2024",  ada obi,  abuja,Groceries,3,5.82
+ORD-1017,27/07/2024,Musa Danjuma,Lagos,Clothing,5,$112.65
+ORD-1109,"July 09, 2024",Ada Obi  ,Lagos  ,  HOME,7,54.76
+ORD-1113,2024-02-02,  Musa Danjuma,abuja,Home  ,4,184.08
+ORD-1065,"October 09, 2024",MUSA DANJUMA  ,Abuja,Groceries,1,$22.50
+ORD-1106,2024-04-08,Tunde Bello,Ibadan,  home,7,71.65
+ORD-1086,2024-12-25,Seun Adeyemi,Kano,electronics,7,461.99
+ORD-1083,2024-01-09,  Chioma Eze,Kano,GROCERIES,6,33.23
+ORD-1043,"June 08, 2024",SEUN ADEYEMI,  Abuja,Electronics  ,2,747.17
+ORD-1117,05/10/2024,  Chioma Eze,ibadan,home  ,2,$245.82
+ORD-1006,16/12/2024,Ada Obi,IBADAN  ,  Clothing,6,$41.26
+ORD-1060,05/12/2024,Ngozi Okafor,lagos  ,groceries,7,52.57
+ORD-1094,2024-01-04,  Chioma Eze,ibadan  ,Electronics,8,710.26
+ORD-1044,"June 26, 2024",musa danjuma,port harcourt,ELECTRONICS,2,$475.14
+ORD-1075,2024-04-12,ngozi okafor  ,abuja,clothing  ,2,66.83
+ORD-1111,28/11/2024,Tunde Bello,  IBADAN,ELECTRONICS,1,829.39
+ORD-1054,"June 05, 2024",Ngozi Okafor,Abuja  ,  Home,4,76.93
+ORD-1062,2024-03-03,  Seun Adeyemi,Ibadan,  Home,2,154.59
+ORD-1102,22/02/2024,  Seun Adeyemi,Lagos,  HOME,6,$130.67
+ORD-1027,20/01/2024,Tunde Bello,  ibadan,Home,4,$137.59
+ORD-1119,2024-06-13,ada obi  ,IBADAN,Groceries,6,29.59
+ORD-1103,28/07/2024,Seun Adeyemi  ,lagos,HOME  ,5,225.41
+ORD-1101,"November 10, 2024",NGOZI OKAFOR,Port Harcourt,Electronics  ,8,526.03
+ORD-1046,2024-08-18,MUSA DANJUMA  ,LAGOS  ,Groceries,4,$24.52
+ORD-1069,2024-08-15,seun adeyemi,lagos,electronics  ,6,473.02
+ORD-1020,"October 23, 2024",Ada Obi,port harcourt  ,,4,46.56
+ORD-1005,24/03/2024,Chioma Eze  ,-,Groceries,7,19.85
+ORD-1006,16/12/2024,Ada Obi,IBADAN  ,  Clothing,6,$41.26
+ORD-1040,2024-08-24,ada obi,Ibadan,clothing  ,7,$47.83
+ORD-1080,2024-08-15,Chioma Eze  ,port harcourt,HOME  ,4,$291.42
+ORD-1097,2024-08-11,TUNDE BELLO,Port Harcourt,electronics  ,4,399.80
+ORD-1052,28/08/2024,  musa danjuma,lagos,Groceries,7,32.05
+ORD-1030,05/07/2024,ada obi  ,lagos  ,CLOTHING  ,7,89.72
+ORD-1105,"December 09, 2024",Seun Adeyemi,port harcourt,clothing  ,3,$115.12
+ORD-1093,2024-05-19,Ngozi Okafor  ,Kano  ,HOME  ,1,89.54
+ORD-1110,2024-06-27,Musa Danjuma,  port harcourt,HOME,6,$90.63
+ORD-1073,2024-05-20,Ngozi Okafor,Ibadan  ,  Home,5,213.00
+ORD-1107,2024-08-12,  musa danjuma,kano,  Clothing,5,$116.56
+ORD-1104,2024-06-19,Ngozi Okafor  ,  IBADAN,Clothing  ,7,$84.35
+ORD-1031,08/04/2024,  SEUN ADEYEMI,port harcourt,Clothing  ,-2,41.02
+ORD-1088,"March 07, 2024",ada obi,kano,Groceries  ,5,24.34
+ORD-1090,"November 07, 2024",seun adeyemi,abuja  ,electronics  ,1,286.05
+ORD-1092,"October 17, 2024",  Ada Obi,Abuja,groceries,7,$31.71
+ORD-1029,09/06/2024,Ngozi Okafor,Port Harcourt  ,Groceries,1,33.60
+ORD-1066,"July 16, 2024",Seun Adeyemi,Lagos  ,Home,2,$172.01
+ORD-1114,25/09/2024,Ada Obi,Kano,electronics  ,1,417.82
+ORD-1085,2024-02-07,Chioma Eze,abuja  ,HOME  ,8,$166.50
+ORD-1021,22/08/2024,Ada Obi,Port Harcourt,Groceries  ,3,N/A
+ORD-1039,2024-09-05,musa danjuma,  ABUJA,Home,1,$52.67
+ORD-1038,"October 26, 2024",ADA OBI,lagos  ,HOME,4,$161.82
+ORD-1070,"October 16, 2024",  Tunde Bello,  LAGOS,  HOME,4,$154.51
+ORD-1071,"May 10, 2024",ADA OBI  ,Port Harcourt,HOME  ,5,$202.51
+ORD-1009,"December 15, 2024",chioma eze,  IBADAN,ELECTRONICS,5,878.92
+ORD-1045,2024-12-28,Musa Danjuma  ,PORT HARCOURT,HOME  ,6,259.96
+ORD-1112,2024-04-20,NGOZI OKAFOR,Ibadan  ,Groceries,4,28.09
+ORD-1012,"April 18, 2024",Seun Adeyemi  ,kano,HOME,4,$90.67
+ORD-1120,10/11/2024,Chioma Eze,  kano,  Groceries,8,6.91
+ORD-1023,19/05/2024,Ngozi Okafor  ,abuja,clothing,2,$83.43
+ORD-1096,20/10/2024,SEUN ADEYEMI  ,LAGOS,  home,8,$254.65
+ORD-1118,13/08/2024,Chioma Eze,kano  ,Home,2,146.26
+ORD-1116,2024-03-10,SEUN ADEYEMI,Ibadan,Clothing,6,113.34
+ORD-1100,"May 20, 2024",ada obi,,Groceries,6,50.74
+ORD-1026,2024-05-01,TUNDE BELLO,abuja,Clothing  ,3,98.74
+ORD-1063,"September 12, 2024",chioma eze,  KANO,  CLOTHING,7,39.06
+ORD-1089,"March 20, 2024",Musa Danjuma,ibadan,  clothing,7,104.52
+ORD-1037,2024-12-21,Seun Adeyemi,KANO  ,HOME,1,$85.85
+ORD-1079,20/08/2024,  SEUN ADEYEMI,Kano,HOME  ,1,216.38
+ORD-1028,22/05/2024,SEUN ADEYEMI  ,Lagos  ,Electronics  ,1,$231.30
+ORD-1061,2024-07-30,tunde bello,  Kano,  home,3,148.29
+ORD-1091,2024-02-05,Seun Adeyemi,Port Harcourt,HOME,6,$72.50
+ORD-1099,2024-12-01,TUNDE BELLO,PORT HARCOURT  ,  clothing,8,$26.83
+ORD-1034,"December 01, 2024",Ada Obi,Abuja,  Clothing,2,$65.65
+ORD-1016,2024-08-04,  CHIOMA EZE,LAGOS,Clothing,2,112.64
+ORD-1072,21/08/2024,TUNDE BELLO,Lagos,groceries  ,5,6.21
+ORD-1050,"March 02, 2024",  Ngozi Okafor,N/A,groceries,4,$21.29
+ORD-1067,14/03/2024,Seun Adeyemi,kano  ,ELECTRONICS,6,789.26
+ORD-1064,05/02/2024,musa danjuma  ,lagos  ,  CLOTHING,8,$73.86
+ORD-1024,02/01/2024,  tunde bello,KANO,Electronics,3,$559.19
+ORD-1095,"July 13, 2024",Seun Adeyemi  ,LAGOS,CLOTHING,8,$112.12
+ORD-1004,2024-10-22,Seun Adeyemi,abuja,Groceries,7,20.29
+ORD-1015,29/07/2024,Seun Adeyemi,LAGOS  ,  Home,4,$81.36
+ORD-1032,26/08/2024,Musa Danjuma,Abuja  ,groceries,4,42.00
+ORD-1036,2024-11-16,CHIOMA EZE,Ibadan  ,home  ,2,67.36
+ORD-1084,2024-09-14,Ngozi Okafor  ,Kano,HOME,7,$215.25
+ORD-1041,not a date,Ada Obi  ,Abuja,  Groceries,4,51.16
+,2024-06-03,Seun Adeyemi  ,Lagos  ,Clothing,2,107.27
+ORD-1047,"May 23, 2024",seun adeyemi,-,Groceries,8,35.53
+ORD-1068,"June 11, 2024",SEUN ADEYEMI,  Port Harcourt,  home,2,147.17
+ORD-1018,"August 04, 2024",  SEUN ADEYEMI,  abuja,Groceries,6,8.14
+ORD-1074,2024-11-17,Seun Adeyemi  ,Kano  ,Clothing,5,$52.67
+ORD-1010,16/11/2024,  Seun Adeyemi,Ibadan,electronics,1,$233.90
+ORD-1098,"September 18, 2024",Ada Obi  ,  Ibadan,  Electronics,5,297.95
+ORD-1057,2024-08-12,musa danjuma,IBADAN,Groceries,7,45.40
+ORD-1026,2024-05-01,TUNDE BELLO,abuja,Clothing  ,3,98.74
+ORD-1048,"November 26, 2024",MUSA DANJUMA,  lagos,  HOME,5,$209.27
+ORD-1016,2024-08-04,  CHIOMA EZE,LAGOS,Clothing,2,112.64
+ORD-1058,2024-01-14,Tunde Bello  ,  Port Harcourt,GROCERIES,5,14.98
